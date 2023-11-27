@@ -6,6 +6,8 @@
   "author": "raulrocha2 <raul.rocha2@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+    "@types/node": "16.9.1",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "4.0.3"
   }
 }
