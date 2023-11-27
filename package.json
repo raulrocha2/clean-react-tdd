@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/raulrocha2/clean-react-tdd.git",
   "author": "raulrocha2 <raul.rocha2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
